@@ -23,28 +23,45 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: St. Andrew's School
+        location: "Parañaque City, NCR"
+        studyType: Student
+        start_date: 2012
+        end_date: 2019
         score: ""
-        courses: "Theory of Relativity"
+        courses: 
         highlights:
-          - Description 1.
-          - Description 2.
+          - Graduated With Honors
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Parañaque Science High School
+        location: "Parañaque City, NCR"
+        studyType: Student
+        start_date: 2019
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - Grade 7 With Honors (S.Y 2019-2020)
+          - Grade 8 With High Honors (S.Y 2020-2021)
+          - Grade 9 With High Honors (S.Y 2021-2022)
+          - Grade 10 With Honors (S.Y 2022-2023)
+
+      - institution: Parañaque Science High School
+        location: "Parañaque City, NCR"
+        area: Science, Technology, Engineering, Mathematics (STEM)
+        studyType: Student
+        start_date: 2023
+        end_date: 2025
+        highlights:
+          - Grade 11 With Honors (S.Y 2023-2024)
+          - Grade 12 With Honors (S.Y 2024-2025)
+      
+      - institution: De La Salle University
+        location: "Manila City, NCR"
+        area: Bachelor of Science in Computer Science major in Network and Information Security
+        studyType: Undergraduate Student
+        start_date: 2025
+        end_date: ongoing
+        highlights:
+          - Year 1, Term 2 Second Dean's Lister
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
