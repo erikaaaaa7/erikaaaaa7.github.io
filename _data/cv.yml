@@ -165,35 +165,41 @@ cv:
         keywords: "Human Behaviors, Mental Problems"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: None yet
+        date: 
+        issuer: None yet
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: None yet
+        date: 
+        issuer: None yet
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: None yet
+        date: 
+        issuer: None yet
         icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Math Park
+        summary: "This program simulates like a game wherein 1-4 players can join. The players will choose what difficulty they want to play in, and a pattern will be generated for them to answer. The difficulty of the pattern will depend on the level of difficulty they chose. There are 25 boxes in the game, the first player that will reach the 25th box wins. A player can also win if the other players are ejected from the game."
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - DE LEON, Julianne Erika
+        start_date: 2025-09-30
+        end_date: 2025-11-30
+      
+      - name: Virtual Mantis Game
+        summary: "Mantis, a colorfully cutthroat card game of RAINBOWS and REVENGE. This game is good for 3-6 players. Players only has two rules: Score or Steal. Each card has 1 color at the front, 3 colors at the back, and corresponding points. They have to collect caards with matching colors. The first player who reaches the winning point, wins."
+        highlights:
+          - KATIGBAK, Rhian Mei, DE LEON, Julianne Erika
+        start_date: 2026-01-30
+        end_date: 2026-03-30
 
     References:
-      - name: Professor John Doe
+      - name: Prof. Kristine Kalaw
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: "-"
 
-      - name: Professor Jane Smith
+      - name: Spencer Pao (YouTube)
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: "-"
