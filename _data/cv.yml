@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 395 D, Quirino Avenue, Don Galo
+    city: Parañaque
+    region: Metro Manila
+    postalCode: 1700
+    countryCode: PH
 
   sections:
     Education:
