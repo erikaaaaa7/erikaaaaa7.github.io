@@ -107,29 +107,30 @@ cv:
         summary: 
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: UTILIZATION OF PHILIPPINE OREGANO (Plectranthus amboinicus) EXTRACT AS A POTENTIAL FOOD PRESERVATIVE ON  CHICKEN (Gallus gallus domesticus) INTESTINE
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - BELOY, Paul Ayden M., MARAMBA, Jaze Aidan V., DE LEON, Julianne Erika S., JIMENEZ, Leonice Allison M.
+        publisher: BELOY, Paul Ayden M., MARAMBA, Jaze Aidan V., DE LEON, Julianne Erika S., JIMENEZ, Leonice Allison M.
+        releaseDate: 2025-04-01
+        url: https://docs.google.com/document/d/1TKyXgtwgYdh9UkkYNZJoHVKvERUQOrsxl13Whd4NCj8/edit?usp=sharing 
+        summary: Researchers tested a 75% Philippine Oregano extract as a natural preservative to inhibit bacterial growth in chicken intestines. While the extract significantly reduced both mesophilic aerobic and lactic acid bacteria compared to the untreated group, the overall inhibition was not strong enough to be considered fully effective. The study concludes that the plant has potential as an antibacterial agent, but suggests testing different concentrations or combining it with other natural alternatives to create a more powerful preservative.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Math Park
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - DE LEON, Julianne Erika
+        publisher: DE LEON, Julianne Erika
+        releaseDate: 2025-11-24
+        url: "#"
+        summary: "This program simulates like a game wherein 1-4 players can join. The players will choose what difficulty they want to play in, and a pattern will be generated for them to answer. The difficulty of the pattern will depend on the level of difficulty they chose. There are 25 boxes in the game, the first player that will reach the 25th box wins. A player can also win if the other players are ejected from the game."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Virtual Mantis Game
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - KATIGBAK, Rhian Mei
+          - DE LEON, Julianne Erika 
+        publisher: KATIGBAK, Rhian Mei, DE LEON, Julianne Erika
+        releaseDate: 2026-03-30
+        url: "#"
+        summary: "Mantis, a colorfully cutthroat card game of RAINBOWS and REVENGE. This game is good for 3-6 players. Players only has two rules: Score or Steal. Each card has 1 color at the front, 3 colors at the back, and corresponding points. They have to collect caards with matching colors. The first player who reaches the winning point, wins."
 
     Skills:
       - name: Physics
