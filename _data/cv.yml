@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: 395 D, Quirino Avenue, Don Galo
-    city: Parañaque
-    region: Metro Manila
-    postalCode: 1700
-    countryCode: PH
+    street: none
+    city: none
+    region: none
+    postalCode: none
+    countryCode: none
 
   sections:
     Education:
